@@ -54,5 +54,5 @@ This project is deployed using **Gradio** and **Hugging Face Spaces**.
 ### **Run Locally**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MBTI-Classification.git
+   git clone https://github.com/AravindBethapudi/MBTI-Classification.git
    cd MBTI-Classification
